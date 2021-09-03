@@ -21,3 +21,11 @@ web-app/build
 web-app/npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+web-app/node_modules
+
+#flutter stuff
+
+# Miscellaneous
+my_app/
