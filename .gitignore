@@ -21,3 +21,6 @@ web-app/build
 web-app/npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+my_app/
